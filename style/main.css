@@ -1,0 +1,23 @@
+.html {
+    height: 100%;
+}
+
+.body {
+    height: 100%;
+}
+
+.header {
+
+}
+
+.header__h1 {
+    text-align: center;
+}
+
+.footer {
+
+}
+
+.footer__p {
+    text-align: center;
+}
