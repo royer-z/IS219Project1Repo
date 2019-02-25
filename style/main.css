@@ -4,20 +4,5 @@
 
 .body {
     height: 100%;
-}
-
-.header {
-
-}
-
-.header__h1 {
-    text-align: center;
-}
-
-.footer {
-
-}
-
-.footer__p {
-    text-align: center;
+    background-color: #E6E6E6;
 }
